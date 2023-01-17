@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Сергей Макаричев](https://up.htmlacademy.ru/htmlcss/36/user/1443603).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Нюкало](https://htmlacademy.ru/profile/nyukalopavel).
 
 ---
 
